@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/NotificationText.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/GetHelp.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Organizations/HelperOrg.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/ConfigureABusiness.java</file>
+            <file>file:/D:/HealthHub%20Main/src/ui/Patient/UpdatePatientProfile.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RolesDirectory/HealthHubControllerRole.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RequestFramework/DoctorDataSenderRequestFramework.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Organizations/DoctorOrg.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RolesDirectory/ChiefRole.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/ContactValidation.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RolesDirectory/ManagersRole.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Organizations/ChiefOrg.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RolesDirectory/SysAdmin.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Organizations/Org.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RequestFramework/HelpRequestFrameworkFramework.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Person/Reviews.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RolesDirectory/DoctorsRole.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/sensors/VitalSigns.java</file>
+            <file>file:/D:/HealthHub%20Main/src/ui/Helper/ProcessAnonymousHelpReqPanel.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Organizations/AdminOrg.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RolesDirectory/PatientRole.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/userAccount/UsersCatalog.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RequestFramework/ManagerRequestFrameworkFramework.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Organizations/ManagerOrg.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RequestFramework/RequestPipeline.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/sensors/SensorsDevice.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RolesDirectory/AdminRole.java</file>
+            <file>file:/D:/HealthHub%20Main/src/ui/Helper/ProcessHelpWorkRequestJPanel.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/SysValidations.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/IntegerValidation.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Person/Patient.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Person/Helpers.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Organizations/OrgCatalog.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Organizations/PatientOrg.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/Location.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RequestFramework/SensorRequestFramework.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/PasswordValidation.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/sensors/HeartRateSensorMeasurements.java</file>
+            <file>file:/D:/HealthHub%20Main/src/ui/Controller/ControllerWorkArea.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RolesDirectory/Roles.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/userAccount/Users.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Networks/Network.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RolesDirectory/HelpersRole.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/DateValidation.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Person/PersonCatalog.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/RequestFramework/RequestFramework.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/RegexValidation.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Person/Person.java</file>
+            <file>file:/D:/HealthHub%20Main/src/Business/Functions/MailValidation.java</file>
+        </group>
+    </open-files>
+</project-private>
